@@ -1,0 +1,2 @@
+# blog.com
+informasi teknologi
